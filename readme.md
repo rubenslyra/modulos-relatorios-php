@@ -32,6 +32,11 @@ cd relatorios-php
 composer install
 ```
 
+## Estrutura de Pastas e Arquivos
+
+
+<img width="194" alt="Captura de tela 2023-09-16 122021" src="https://github.com/rubenslyra/modulos-relatorios-php/assets/37023108/ebea43bc-a455-466a-af56-51d135f2cdd4">
+
 ## Uso
 
 1. Após a instalação das dependências, você pode executar o script PHP para gerar o relatório:
