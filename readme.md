@@ -2,6 +2,11 @@
 
 Este é um projeto de exemplo que demonstra como criar relatórios usando a biblioteca PhpSpreadsheet em PHP. O projeto inclui a geração de um arquivo XLSX com um título, cabeçalho, dados e formatação.
 
+<img width="681" alt="Captura de tela 2023-09-16 121836" src="https://github.com/rubenslyra/modulos-relatorios-php/assets/37023108/3222ac6f-9fe5-48c3-9102-08da5d535cce">
+
+<img width="400" alt="Captura de tela 2023-09-16 115308" src="https://github.com/rubenslyra/modulos-relatorios-php/assets/37023108/6bbfd3f1-9e57-4315-ac8b-9e7b5f63c415">
+
+
 ## Requisitos
 
 - PHP 8.0 ou superior
